@@ -5,4 +5,3 @@ class Category < ApplicationRecord
 		cat
 	end
 end
---
